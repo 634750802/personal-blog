@@ -1,6 +1,6 @@
 const bloxciting = require('bloxciting')
 
-bloxciting.serveHomePage()
 bloxciting.serveAssets()
+bloxciting.serveHomePage()
 bloxciting.setLoggerLevel('trace')
 bloxciting.start()
