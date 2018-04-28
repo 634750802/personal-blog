@@ -1,11 +1,11 @@
 {
   "app": {
     "blog-home": "blog-home",
-    "port": 18888
+    "port": 80
   },
   "author": {
     "nickname": "D·Jagger",
-    "email": "634750802@qq.com",
+    "email": "me@djagger.net",
     "signature": "Front-end developer, feeling excited in Vue.js and all great front end projects."
   }
 }
